@@ -1,5 +1,7 @@
 # schoolMate
 https://www.figma.com/design/fpN8q5b1lsVhkaB3M3JPbX/school?node-id=0-1&p=f&t=jQeETo8VVeTxdIRz-0
+
+
 📋 About the Project
 
 SchoolMate is a web platform designed to simplify school activity management. It streamlines the organization of events, tasks, and communication between teachers, students, and parents. The platform enhances engagement and keeps everyone informed through real-time updates, notifications, and reports.
